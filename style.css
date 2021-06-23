@@ -1,0 +1,13 @@
+
+.container{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr; 
+}
+.tiles{
+	height: 100px;
+	width: 120px;
+	margin: 2px ;
+	background-color: green;
+	
+
+}
